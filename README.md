@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Complete PO System**
 
-- 💬 Ask me about **REACT, JS, PHP, HTML, CSS**
+- 💬 Ask me about **REACT, JS, PHP, HTML, CSS, Tailwind CSS, Node**
 
 - 📫 How to reach me **anwarnadim3@gmail.com**
 
